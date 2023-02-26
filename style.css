@@ -67,7 +67,7 @@ h1 {
     border-bottom-left-radius: 10px;
 }
 
-h3 {
+h2 {
     margin-bottom: 1rem;
     font-size: 18px;
 }
@@ -149,7 +149,7 @@ pre {
         padding: 1rem 8rem;
     }
 
-    h1, h3 {
+    h1, h2 {
         font-size: 24px;
     }
 
